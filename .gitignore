@@ -1,0 +1,11 @@
+# Ignorar carpetas de caché de Python en cualquier subcarpeta
+**/__pycache__/
+**/*.pyc
+
+# Ignorar entornos virtuales si creas uno para probar tus apps
+**/venv/
+**/.venv/
+
+# Ignorar archivos de configuración de editores
+.vscode/
+.idea/
